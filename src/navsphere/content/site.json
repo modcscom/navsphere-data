@@ -1,0 +1,15 @@
+{
+  "basic": {
+    "title": "赛智导航",
+    "description": "常用工具导航，ai工具",
+    "keywords": "赛智导航"
+  },
+  "appearance": {
+    "logo": "https://cdn.jsdelivr.net/gh/modcscom/NavSphere/public/logo.png",
+    "favicon": "https://cdn.jsdelivr.net/gh/modcscom/NavSphere/public/favicon.ico",
+    "theme": "system"
+  },
+  "navigation": {
+    "linkTarget": "_blank"
+  }
+}
