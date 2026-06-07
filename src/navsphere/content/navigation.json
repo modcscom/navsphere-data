@@ -6,7 +6,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1780798718977_7qrk0cpdy",
+          "title": "编程练习",
+          "href": "https://oj.wlycs.cn/",
+          "description": "访问 oj.wlycs.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=oj.wlycs.cn",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
